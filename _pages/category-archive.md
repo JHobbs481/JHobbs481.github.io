@@ -4,5 +4,5 @@ layout: categories
 permalink: /categories/
 author_profile: true
 header:
-  overlay_image: github-header-image.png
+  overlay_image: blog-cover.jpg
 ---
