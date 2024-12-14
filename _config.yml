@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jake Hobbs"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : images/profilepic.PNG
   bio              : "A place to showcase my content"
   location         : "Somewhere"
   email            : "jake.hobbs0702@gmail.com"
