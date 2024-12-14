@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Jake Hobbs"
   avatar           : images/profilepic.PNG
-  bio              : "A place to showcase my content"
-  location         : "Somewhere"
+  bio              : "A place to showcase my skills and projects I'm working on!'"
+  location         : "Virginia, USA"
   email            : "jake.hobbs0702@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jake-hobbs-a7aa21309/"
