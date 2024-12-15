@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 author_profile: true
 title: Posts
 header:
