@@ -9,9 +9,11 @@ tags:
   - standard
 ---
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+Hello, and welcome to my first project on a VulnHub vulnerable machine!
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
+Today we are working on VM called [Mr Robot 1](https://www.vulnhub.com/entry/mr-robot-1,151/) which is themed after the show Mr. Robot. I have previously participated in CTFs challenges during my studies at the University of Richmond boot camps: however, this is my first time doing one independently.
+
+Before we begin, if you haven’t heard of [VulnHub](https://www.vulnhub.com/about/), then let me briefly explain what it is. Their goal is to provide materials that allow anyone to gain practical 'hands-on' experience in digital security, computer software & network administration. Vulnhub was born to cover as many resources as possible, creating a catalogue of 'stuff' that is (legally) 'breakable, hackable & exploitable' - allowing you to learn in a safe environment and practise 'stuff' out.
 
 <!--more-->
 
