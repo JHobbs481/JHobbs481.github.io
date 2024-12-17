@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: " "
 header:
   overlay_image: images/github-header-image.png
 ---
