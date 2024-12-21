@@ -1,11 +1,22 @@
 ---
 permalink: /about/
-title: " "
+title: "About"
 author_profile: true
 header:
   overlay_image: images/github-header-image.png
 ---
+## jake@localhost:~$ whoami
+Hello! :wave:
 
-Tempo velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Jake. After completing a comprehensive Cybersecurity Boot Camp
+at the [University of Richmond](https://bootcamps.richmond.edu/cybersecurity/),  I am eager to begin my journey in this industry.
+During my studies in the Boot Camp, I developed a strong foundation in essential security concepts, tools, and practices.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This website will mainly be a place to showcase my projects and skills as I progress further into the industry!
+
+## Certifications:
+
+![comptia security+](/images/comptia-aboutme.png){: .align-left} As of Nov 2024 I received my CompTIA security+ certification ([credly](https://www.credly.com/badges/38eda0ee-94df-4057-afac-1e49d284cdb8/linked_in_profile))
+
+
+
