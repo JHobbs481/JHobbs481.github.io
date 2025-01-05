@@ -16,7 +16,7 @@ tags:
 Hello, and welcome to my first project working with a Raspberry Pi unit. Today I will be installing [Pi-Hole](https://pi-hole.net/) on my **Raspberry Pi Zero 2W** to hopefully get rid of those pesky ads.
 
 If you have never heard of [Pi-Hole](https://pi-hole.net/), then let me briefly explain what it is.
-**Pi-hole** is a **linux network-level** ad and internet tracker blocking application which also acts as a **DNS sinkhole** with the option of acting as a **DHCP server**.
+**Pi-hole** is a **linux network-level** ad and internet tracker blocking application which acts as a **DNS sinkhole** with the option of being a **DHCP server**.
 
 I decided to go with the **Raspberry Pi Zero 2W** due to the amount of devices connected to my network.
 However, in the future I want to upgrade to a **Raspberry Pi 4** to install softwares like [Home Assistant](https://www.home-assistant.io/).
@@ -53,3 +53,19 @@ I then used **Putty** to ssh back into my **Raspberry Pi** and ran the command `
 </figure>
 
 ## Conclusion:
+We are finished\! This was a very easy beginner project working with a **Raspberry Pi** device.
+There are too many benefits for running **Pi-Hole** on your **home network** to list here, but I highly suggest researching and adding this to your arsenal.
+
+Now that we have **Pi-Hole** up and running we can test a website I know has ads and see if they get blocked.
+For this demonstration I used a website called [Hackaday](https://hackaday.com/) to display a before and after image.
+
+### Before:
+<figure class ="align-center">
+	<img src ="/images/hackadaybefore.PNG">
+</figure>
+
+### After:
+<figure class ="align-center">
+	<img src ="/images/hackadayafter.PNG">
+</figure>
+
