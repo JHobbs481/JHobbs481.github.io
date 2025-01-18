@@ -8,7 +8,7 @@ header:
   image: images/raspberrypibanner.png
   caption: "[Raspberry Pi](https://www.raspberrypi.com/)"
 categories:
-  - Raspberry pi
+  - Raspberry Pi
 tags:
   - Ad blocker
   - raspberry pi
