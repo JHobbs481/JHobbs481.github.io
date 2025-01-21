@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "HomeLab"
+title: "Initial HomeLab setup using Virtualbox"
 excerpt_separator: "<!--more-->"
 author_profile: true
 classes: wide
@@ -37,7 +37,7 @@ I enabled **pfSense ISC DHCP daemon** capabilties for the subnets **LAN** and **
 Below is firewall aliases and rules for each interface:
 ### Aliases
 <figure class ="align-center">
-  <img src="/images/">
+  <img src="/images/homelab-delete.png">
 </figure>
 
 ### NAT Rules
