@@ -21,7 +21,7 @@ title                    : "Jake Hobbs Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jake Hobbs"
-description              : "An amazing website."
+description              : "Showcase of Personal Projects and Write Ups."
 url                      : "https://jhobbs481.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JHobbs481/JHobbs481.github.io"
@@ -272,6 +272,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 
 # Archives
